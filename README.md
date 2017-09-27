@@ -13,6 +13,13 @@ is automatically scaled to fit the window and centered so you also don't have to
 worry about alignment. Instead you can really concentrate on the content.
 
 
+Requirements:
+
+for Ubuntu, I had to run
+
+- sudo apt install xorg-dev libpng-dev
+
+
 Demo
 
 To get a little demo, just type
